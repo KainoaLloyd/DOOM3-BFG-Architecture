@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Doom 3 BFG Architecture
+tagline:          '' # Text to title on browser tab
+#description:      '' # Description under title on the page
+url:              http://yohanna.github.io/Doom-3-BFG-Architecture/
+baseurl:          /Doom-3-BFG-Architecture
+
+author:
+  name:           'Yohanna Gadelrab'
+  url:            https://github.com/Yohanna
+
+
+# Custom vars
+github:
+  repo:           https://github.com/Yohanna/Doom-3-BFG-Architecture/
+  branch:         tree/gh-pages/
+
